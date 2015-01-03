@@ -1,0 +1,1 @@
+function Created()endfunction Started()endfunction Draw()endfunction Touched(type, x, y)endfunction Stopped()end

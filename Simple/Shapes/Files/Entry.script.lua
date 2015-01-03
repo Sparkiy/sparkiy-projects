@@ -1,0 +1,1 @@
+function Created()endfunction Started()endfunction Draw()    line(100, 10, 300, 125)    rect(100, 110, 200, 100)    square(100, 260, 100)    ellipse(150, 485, 50, 80)    circle(150, 645, 50)endfunction Touched(type, x, y)endfunction Stopped()end

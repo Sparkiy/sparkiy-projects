@@ -1,0 +1,1 @@
+circleX = 0circleY = 0function Created()endfunction Started()endfunction Draw()    circle(circleX, circleY, 50)endfunction Touched(type, x, y)    circleX = x    circleY = yendfunction Stopped()end

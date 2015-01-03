@@ -1,0 +1,1 @@
+function Created()endfunction Started()endfunction Draw()    text("Hello from sparkiy", 100, 100)    fontColor(0, 0.3, 1)    text("Hello from sparkiy", 100, 130)    font("Castellar")    fontSize(92)    fontColor(1, 0.3, 0)    text("Hello from sparkiy", 100, 160)endfunction Touched(type, x, y)endfunction Stopped()end
