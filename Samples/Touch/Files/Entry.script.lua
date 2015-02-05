@@ -1,0 +1,1 @@
+x = 0y = 0function draw()    circle(x, y, 50)endfunction touched(a, b, c)    x = b    y = cend
